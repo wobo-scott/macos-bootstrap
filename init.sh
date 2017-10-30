@@ -9,7 +9,8 @@ brew cask install https://raw.githubusercontent.com/caskroom/homebrew-cask/e8816
 brew cask install docker
 brew cask install chefdk
 
-#install magnet from app store; or
+#install apps from app store:
+
 #brew install mas
 #brew search app magnet
 #brew search app xcode
