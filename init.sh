@@ -5,6 +5,8 @@ brew install chruby
 brew install ruby-install
 brew install zsh zsh-completions
 brew install tree
+brew install kubectl
+brew install kubernetes-helm
 
 # install cask
 brew tap caskroom/cask
