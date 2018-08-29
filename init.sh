@@ -5,7 +5,7 @@ brew install chruby
 brew install ruby-install
 brew install zsh zsh-completions
 brew install tree
-brew install kubectl
+brew install kubernetes-cli
 brew install kubernetes-helm
 
 # install cask
@@ -19,7 +19,7 @@ brew cask install docker
 brew cask install chefdk
 
 # install oh-my-zsh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+# sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
 #install apps from app store:
 
