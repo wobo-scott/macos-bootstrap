@@ -7,9 +7,8 @@ brew install zsh zsh-completions
 brew install tree
 brew install kubernetes-cli
 brew install kubernetes-helm
-
-# install cask
-brew tap caskroom/cask
+brew install stern
+brew install kubectx
 
 brew cask install vagrant
 brew cask install vagrant-manager
@@ -34,4 +33,3 @@ brew cask install chefdk
 # TODO: install iterm2
         
 # TODO: install ruby
-# TODO: cat > ~/.zshrc
